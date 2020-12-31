@@ -1,0 +1,168 @@
+body {
+  overflow-y: hidden; /* Hide vertical scrollbar */
+  overflow-x: hidden; /* Hide horizontal scrollbar */
+}
+#mike {
+  /* MIKE*/
+  margin-left: 20px;
+  font-family: SF UI Text;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 81px;
+  /* identical to box height*/
+  color: black;
+}
+
+#custom-element {
+  /* Placeholder */
+  height: 70px;
+  background: white;
+}
+#placeholder {
+  /* Placeholder */
+  height: 800px;
+  width: 490px;
+  position: absolute;
+  background: linear-gradient(225.63deg, #37445b -17.16%, #19202c 79.72%);
+}
+#custom-el {
+  /* Placeholder */
+  height: 70px;
+  background: linear-gradient(225.63deg, #37445b -17.16%, #19202c 79.72%);
+}
+
+#grs {
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 5vw;
+  line-height: 80px;
+  /* or 112% */
+  color: #19202c;
+  margin-top: -5vh;
+}
+
+#rupees {
+  /* $59.99 */
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 32px;
+  line-height: 42px;
+  /* identical to box height, or 131% */
+  color: #19202c;
+}
+
+#neoprene {
+  /* Neoprene and membran */
+  font-size: 14px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 24px;
+  /* or 171% */
+  color: #19202c;
+}
+
+#colorofshoe {
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+  color: #19202c;
+}
+
+#size {
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+  color: #19202c;
+}
+
+#quantity {
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+  color: #19202c;
+  margin-bottom: 15px;
+}
+
+#addtocart {
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+  text-align: center;
+  color: #ffffff;
+}
+#addtocartbutton {
+  border-radius: 50px;
+  padding: 10px 20px 10px 20px;
+}
+
+#savetowishlist {
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: #19202c;
+}
+
+#strikenumber {
+  font-family: Montserrat;
+  font-style: Medium;
+  font-size: 24px;
+  line-height: 24px;
+  line-height: 123%;
+  text-align: Left;
+  vertical-align: center;
+  opacity: 30%;
+  fill: Solid #19202c;
+}
+
+#delivery {
+  font-family: Lato;
+  font-style: Regular;
+  font-size: 14px;
+}
+
+#stars {
+  color: #ffb632;
+}
+#eighteen {
+  font: Lato;
+  font-weight: 700;
+  font-style: normal;
+  size: 14px;
+  line-height: 16.8px;
+}
+
+#input_container {
+  position: relative;
+  padding: 20 20 220 20px;
+  margin: 20px 0px 20px 100px;
+
+  direction: rtl;
+  width: 200px;
+}
+#input {
+  height: 35px;
+  margin: 0;
+  padding-right: 30px;
+  width: 100%;
+  border-radius: 50px;
+}
+#input_img {
+  position: absolute;
+  bottom: 2px;
+  right: 5px;
+  width: 24px;
+  height: 24px;
+}
